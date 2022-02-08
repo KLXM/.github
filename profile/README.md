@@ -2,7 +2,7 @@
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/KLXM/stuff/main/welcome.svg" width="800" height="400">
+	<img style="width: 100%; height: auto;" src="https://raw.githubusercontent.com/KLXM/stuff/main/welcome.svg" width="800" height="400">
 	<br>
 	Hier finden Sie aktuelle Projekte rund um das CMS REDAXO, UIKit und mehr.<br>
 	[Mehr Information zu KLXM](https://klxm.de)
