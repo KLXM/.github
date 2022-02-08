@@ -3,7 +3,7 @@
 <div align="center">
 	<br>
 	<a href="https://klxm.de">
-		<img src="https://github.com/KLXM/.github/blame/main/profile/welcome.svg" width="800" height="400">
+		<img src="https://github.com/KLXM/.github/blame/main/stuff/welcome.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
