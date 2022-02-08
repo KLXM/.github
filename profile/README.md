@@ -2,7 +2,7 @@
 
 <div align="center">
 	<br>
-	<img src="https://github.com/KLXM/stuff/blame/main/welcome.svg" width="800" height="400">
+	<img src="https://raw.githubusercontent.com/KLXM/stuff/main/welcome.svg" width="800" height="400">
 	<br>
 </div>
 
