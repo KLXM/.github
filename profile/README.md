@@ -2,9 +2,7 @@
 
 <div align="center">
 	<br>
-	<a href="https://klxm.de">
-		<img src="https://github.com/KLXM/stuff/blame/main/welcome.svg" width="800" height="400">
-	</a>
+	<img src="https://github.com/KLXM/stuff/blame/main/welcome.svg" width="800" height="400">
 	<br>
 </div>
 
