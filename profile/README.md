@@ -1,4 +1,4 @@
-# Welcome to KLXM's GitHub
+# Welcome to KLXMs GitHub
 
 **KLXM** is an owner-managed advertising agency located in Moers, Lower Rhine, Germany. 
 
